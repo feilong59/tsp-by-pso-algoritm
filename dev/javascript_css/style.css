@@ -1,0 +1,37 @@
+body {
+    font-size: 14px;
+    padding: 0.5em;
+}
+
+#autor {
+    color: gray;
+    font-size: 120%;
+}
+
+#param {
+    margin: 1em 0 0.3em 0;
+}
+
+#systemMessage {
+    margin: 3px 0;
+}
+
+#paintArea {
+    border: 3px solid green;
+    position: absolute;
+}
+
+#result {
+    position: absolute;
+    left: 900px;
+}
+
+#result h2 {
+    margin: 5px 0;
+}
+
+#result .extinctionCount {
+    color: blue;
+    font-size: 130%;
+    text-align: center;
+}
